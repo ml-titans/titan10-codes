@@ -1,0 +1,202 @@
+[
+  {
+    "service_name": "Dr.Sum",
+    "know": true
+  },
+  {
+    "service_name": "b→dash",
+    "know": true
+  },
+  {
+    "service_name": "MotionBoard",
+    "know": true
+  },
+  {
+    "service_name": "Domo",
+    "know": true
+  },
+  {
+    "service_name": "Yellowfin",
+    "know": true
+  },
+  {
+    "service_name": "データ統一クラウド",
+    "know": false
+  },
+  {
+    "service_name": "Amazon QuickSight",
+    "know": true
+  },
+  {
+    "service_name": "軽技Web",
+    "know": false
+  },
+  {
+    "service_name": "CRM Analytics",
+    "know": true
+  },
+  {
+    "service_name": "Looker",
+    "know": true
+  },
+  {
+    "service_name": "SAP BusinessObjects Business Intelligence",
+    "know": true
+  },
+  {
+    "service_name": "MicroStrategy ONE",
+    "know": true
+  },
+  {
+    "service_name": "Looker Studio",
+    "know": true
+  },
+  {
+    "service_name": "IBM Cognos Analytics",
+    "know": true
+  },
+  {
+    "service_name": "Power BI",
+    "know": true
+  },
+  {
+    "service_name": "Exploratory",
+    "know": true
+  },
+  {
+    "service_name": "FineReport",
+    "know": false
+  },
+  {
+    "service_name": "カスタマーリングス",
+    "know": false
+  },
+  {
+    "service_name": "Pentaho",
+    "know": true
+  },
+  {
+    "service_name": "JMP",
+    "know": true
+  },
+  {
+    "service_name": "WebFOCUS",
+    "know": true
+  },
+  {
+    "service_name": "Actionista！",
+    "know": false
+  },
+  {
+    "service_name": "SAS",
+    "know": true
+  },
+  {
+    "service_name": "Sisense",
+    "know": true
+  },
+  {
+    "service_name": "LaKeel BI",
+    "know": false
+  },
+  {
+    "service_name": "TIBCO Spotfire",
+    "know": true
+  },
+  {
+    "service_name": "Statsbot",
+    "know": false
+  },
+  {
+    "service_name": "Codatum",
+    "know": false
+  },
+  {
+    "service_name": "Growwwing",
+    "know": false
+  },
+  {
+    "service_name": "DataNature",
+    "know": false
+  },
+  {
+    "service_name": "Oracle Analytics Cloud",
+    "know": true
+  },
+  {
+    "service_name": "ESPERiC",
+    "know": false
+  },
+  {
+    "service_name": "AUD Platform",
+    "know": false
+  },
+  {
+    "service_name": "うちでのこづち",
+    "know": false
+  },
+  {
+    "service_name": "Zoho One",
+    "know": true
+  },
+  {
+    "service_name": "Linxgate",
+    "know": false
+  },
+  {
+    "service_name": "ナレコレBI",
+    "know": false
+  },
+  {
+    "service_name": "KARTE Datahub",
+    "know": false
+  },
+  {
+    "service_name": "ThinkingData",
+    "know": false
+  },
+  {
+    "service_name": "GENIEE BI",
+    "know": false
+  },
+  {
+    "service_name": "KiZUKAI",
+    "know": false
+  },
+  {
+    "service_name": "GoodData",
+    "know": true
+  },
+  {
+    "service_name": "Infor Birst",
+    "know": true
+  },
+  {
+    "service_name": "InetSoft",
+    "know": false
+  },
+  {
+    "service_name": "Logi Analytics",
+    "know": false
+  },
+  {
+    "service_name": "Targit",
+    "know": false
+  },
+  {
+    "service_name": "Sprocket",
+    "know": false
+  },
+  {
+    "service_name": "DIAPRISM",
+    "know": false
+  },
+  {
+    "service_name": "Zoho Analytics",
+    "know": true
+  },
+  {
+    "service_name": "Qlik Sense / Qlik Cloud Analytics",
+    "know": true
+  }
+]
