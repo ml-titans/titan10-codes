@@ -1,0 +1,210 @@
+[
+  {
+    "service_name": "Dr.Sum",
+    "url": "https://www.wingarc.com/product/dr_sum/",
+    "company": "ウイングアーク１ｓｔ株式会社",
+    "explanation": [
+      "高速集計を得意とするBIツールです。大量データの集計・分析に適しています。"
+    ]
+  },
+  {
+    "service_name": "b→dash",
+    "url": "None",
+    "company": "株式会社フロムスクラッチ",
+    "explanation": [
+      "マーケティングプラットフォームとして知っています。BI機能も提供していると認識しています。"
+    ]
+  },
+  {
+    "service_name": "MotionBoard",
+    "url": "https://www.wingarc.com/product/motionboard/",
+    "company": "ウイングアーク１ｓｔ株式会社",
+    "explanation": [
+      "ダッシュボード作成に特化したBIツールです。Dr.Sumと連携して利用されることが多いです。"
+    ]
+  },
+  {
+    "service_name": "Domo",
+    "url": "https://www.domo.com/jp",
+    "company": "Domo, Inc.",
+    "explanation": [
+      "クラウド型のBIツールです。様々なデータソースとの連携が容易で、モバイルでの利用にも強みがあります。"
+    ]
+  },
+  {
+    "service_name": "Yellowfin",
+    "url": "https://www.yellowfin.jp/",
+    "company": "Yellowfin International Pty Ltd",
+    "explanation": [
+      "ストーリーテリング機能を特徴とするBIツールです。データ分析の結果を分かりやすく伝えることに重点を置いています。"
+    ]
+  },
+  {
+    "service_name": "Amazon QuickSight",
+    "url": "https://aws.amazon.com/jp/quicksight/",
+    "company": "Amazon Web Services, Inc.",
+    "explanation": [
+      "AWSが提供するクラウド型のBIツールです。スケーラビリティが高く、大規模なデータ分析に適しています。"
+    ]
+  },
+  {
+    "service_name": "CRM Analytics",
+    "url": "None",
+    "company": "株式会社セールスフォース・ジャパン",
+    "explanation": [
+      "Salesforceのプラットフォーム上で動作するBIツールです。CRMデータとの連携が容易です。以前はTableau CRMと呼ばれていました。"
+    ]
+  },
+  {
+    "service_name": "Looker",
+    "url": "https://cloud.google.com/looker?hl=ja",
+    "company": "Google LLC",
+    "explanation": [
+      "Google Cloudが提供するBIツールです。データモデリング機能が強力で、一貫性のあるデータ分析を実現できます。"
+    ]
+  },
+  {
+    "service_name": "SAP BusinessObjects Business Intelligence",
+    "url": "None",
+    "company": "SAP SE",
+    "explanation": [
+      "SAPが提供するBIツールです。SAPのERPシステムとの連携に強みがあります。"
+    ]
+  },
+  {
+    "service_name": "MicroStrategy ONE",
+    "url": "None",
+    "company": "MicroStrategy Incorporated",
+    "explanation": [
+      "エンタープライズ向けのBIツールです。高度な分析機能とセキュリティ機能を備えています。"
+    ]
+  },
+  {
+    "service_name": "Looker Studio",
+    "url": "https://lookerstudio.google.com/",
+    "company": "Google LLC",
+    "explanation": [
+      "Googleが提供する無料のBIツールです。Googleの各種サービスとの連携が容易です。"
+    ]
+  },
+  {
+    "service_name": "IBM Cognos Analytics",
+    "url": "None",
+    "company": "IBM Corporation",
+    "explanation": [
+      "IBMが提供するBIツールです。AIを活用した分析機能が特徴です。"
+    ]
+  },
+  {
+    "service_name": "Power BI",
+    "url": "https://powerbi.microsoft.com/ja-jp/",
+    "company": "Microsoft Corporation",
+    "explanation": [
+      "Microsoftが提供するBIツールです。Excelとの連携が容易で、多くの企業で利用されています。"
+    ]
+  },
+  {
+    "service_name": "Exploratory",
+    "url": "https://exploratory.io/",
+    "company": "Exploratory, Inc.",
+    "explanation": [
+      "データの前処理に特化したBIツールです。GUIで簡単にデータ加工ができます。"
+    ]
+  },
+  {
+    "service_name": "Pentaho",
+    "url": "None",
+    "company": "日立ヴァンタラ",
+    "explanation": [
+      "オープンソースのBIツールです。データ統合機能も備えています。"
+    ]
+  },
+  {
+    "service_name": "JMP",
+    "url": "None",
+    "company": "SAS Institute Japan株式会社",
+    "explanation": [
+      "統計解析に特化したソフトウェアです。BIツールとしても利用できます。"
+    ]
+  },
+  {
+    "service_name": "WebFOCUS",
+    "url": "None",
+    "company": "Information Builders (現TIBCO)",
+    "explanation": [
+      "エンタープライズ向けのBIツールです。レポート作成機能が強力です。"
+    ]
+  },
+  {
+    "service_name": "SAS",
+    "url": "None",
+    "company": "SAS Institute Japan株式会社",
+    "explanation": [
+      "統計解析ソフトウェアとして知られています。BI機能も提供しています。"
+    ]
+  },
+  {
+    "service_name": "Sisense",
+    "url": "None",
+    "company": "Sisense Inc.",
+    "explanation": [
+      "組み込み分析に強みを持つBIツールです。"
+    ]
+  },
+  {
+    "service_name": "TIBCO Spotfire",
+    "url": "None",
+    "company": "TIBCO Software Inc.",
+    "explanation": [
+      "高度なデータビジュアライゼーション機能を備えたBIツールです。"
+    ]
+  },
+  {
+    "service_name": "Oracle Analytics Cloud",
+    "url": "None",
+    "company": "Oracle Corporation",
+    "explanation": [
+      "Oracleが提供するクラウド型のBIツールです。Oracleのデータベースとの連携に強みがあります。"
+    ]
+  },
+  {
+    "service_name": "Zoho One",
+    "url": "None",
+    "company": "Zoho Corporation",
+    "explanation": [
+      "様々なビジネスアプリケーションを統合したスイート製品です。BI機能も含まれています。"
+    ]
+  },
+  {
+    "service_name": "GoodData",
+    "url": "None",
+    "company": "GoodData Corporation",
+    "explanation": [
+      "組み込み分析に特化したBIプラットフォームです。"
+    ]
+  },
+  {
+    "service_name": "Infor Birst",
+    "url": "None",
+    "company": "Infor",
+    "explanation": [
+      "クラウド型のBIツールです。部門間の連携分析に強みがあります。"
+    ]
+  },
+  {
+    "service_name": "Zoho Analytics",
+    "url": "None",
+    "company": "Zoho Corporation",
+    "explanation": [
+      "Zohoが提供するBIツールです。Zohoの各種サービスとの連携が容易です。"
+    ]
+  },
+  {
+    "service_name": "Qlik Sense / Qlik Cloud Analytics",
+    "url": "https://www.qlik.com/ja-jp/",
+    "company": "QlikTech International AB",
+    "explanation": [
+      "連想技術を特徴とするBIツールです。自由なデータ探索が可能です。"
+    ]
+  }
+]

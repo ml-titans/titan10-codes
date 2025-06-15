@@ -1,0 +1,202 @@
+[
+  {
+    "service_name": "Dr.Sum",
+    "score": 4
+  },
+  {
+    "service_name": "b→dash",
+    "score": 2
+  },
+  {
+    "service_name": "MotionBoard",
+    "score": 4
+  },
+  {
+    "service_name": "Domo",
+    "score": 4
+  },
+  {
+    "service_name": "Yellowfin",
+    "score": 4
+  },
+  {
+    "service_name": "Amazon QuickSight",
+    "score": 4
+  },
+  {
+    "service_name": "CRM Analytics",
+    "score": 2
+  },
+  {
+    "service_name": "Looker",
+    "score": 4
+  },
+  {
+    "service_name": "SAP BusinessObjects Business Intelligence",
+    "score": 2
+  },
+  {
+    "service_name": "MicroStrategy ONE",
+    "score": 2
+  },
+  {
+    "service_name": "Looker Studio",
+    "score": 4
+  },
+  {
+    "service_name": "IBM Cognos Analytics",
+    "score": 2
+  },
+  {
+    "service_name": "Power BI",
+    "score": 4
+  },
+  {
+    "service_name": "Exploratory",
+    "score": 4
+  },
+  {
+    "service_name": "Pentaho",
+    "score": 2
+  },
+  {
+    "service_name": "JMP",
+    "score": 2
+  },
+  {
+    "service_name": "WebFOCUS",
+    "score": 2
+  },
+  {
+    "service_name": "SAS",
+    "score": 2
+  },
+  {
+    "service_name": "Sisense",
+    "score": 2
+  },
+  {
+    "service_name": "TIBCO Spotfire",
+    "score": 2
+  },
+  {
+    "service_name": "Oracle Analytics Cloud",
+    "score": 2
+  },
+  {
+    "service_name": "Zoho One",
+    "score": 2
+  },
+  {
+    "service_name": "GoodData",
+    "score": 2
+  },
+  {
+    "service_name": "Infor Birst",
+    "score": 2
+  },
+  {
+    "service_name": "Zoho Analytics",
+    "score": 2
+  },
+  {
+    "service_name": "Qlik Sense / Qlik Cloud Analytics",
+    "score": 4
+  },
+  {
+    "service_name": "データ統一クラウド",
+    "score": 0.0
+  },
+  {
+    "service_name": "軽技Web",
+    "score": 0.0
+  },
+  {
+    "service_name": "FineReport",
+    "score": 0.0
+  },
+  {
+    "service_name": "カスタマーリングス",
+    "score": 0.0
+  },
+  {
+    "service_name": "Actionista！",
+    "score": 0.0
+  },
+  {
+    "service_name": "LaKeel BI",
+    "score": 0.0
+  },
+  {
+    "service_name": "Statsbot",
+    "score": 0.0
+  },
+  {
+    "service_name": "Codatum",
+    "score": 0.0
+  },
+  {
+    "service_name": "Growwwing",
+    "score": 0.0
+  },
+  {
+    "service_name": "DataNature",
+    "score": 0.0
+  },
+  {
+    "service_name": "ESPERiC",
+    "score": 0.0
+  },
+  {
+    "service_name": "AUD Platform",
+    "score": 0.0
+  },
+  {
+    "service_name": "うちでのこづち",
+    "score": 0.0
+  },
+  {
+    "service_name": "Linxgate",
+    "score": 0.0
+  },
+  {
+    "service_name": "ナレコレBI",
+    "score": 0.0
+  },
+  {
+    "service_name": "KARTE Datahub",
+    "score": 0.0
+  },
+  {
+    "service_name": "ThinkingData",
+    "score": 0.0
+  },
+  {
+    "service_name": "GENIEE BI",
+    "score": 0.0
+  },
+  {
+    "service_name": "KiZUKAI",
+    "score": 0.0
+  },
+  {
+    "service_name": "InetSoft",
+    "score": 0.0
+  },
+  {
+    "service_name": "Logi Analytics",
+    "score": 0.0
+  },
+  {
+    "service_name": "Targit",
+    "score": 0.0
+  },
+  {
+    "service_name": "Sprocket",
+    "score": 0.0
+  },
+  {
+    "service_name": "DIAPRISM",
+    "score": 0.0
+  }
+]

@@ -1,0 +1,18 @@
+[project]
+name = "llmo-test"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "beautifulsoup4>=4.13.4",
+    "google>=3.0.0",
+    "google-genai>=1.16.1",
+    "langchain-google-genai>=2.1.4",
+    "lxml>=5.4.0",
+    "matplotlib>=3.10.3",
+    "matplotlib-venn>=1.1.2",
+    "pandas>=2.2.3",
+    "python-dotenv>=1.1.0",
+    "streamlit>=1.45.1",
+]
