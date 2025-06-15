@@ -13,6 +13,9 @@ uv sync # 環境構築
 
 ### 実行
 
+* `.env`ファイルを作成し、本文中の環境変数を設定
+* 以下のコマンドで実行
+
 ```shell
 uv run top_services.py
 ```
